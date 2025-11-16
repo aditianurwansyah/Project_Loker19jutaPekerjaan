@@ -32,7 +32,7 @@ berisikan tentang syarat salah satu penyelesaian ujian tengah semester dari pemr
 <p>setelah itu dilanjutkan dengan project 2 yang menggunakan crud, setelah menampilkan daftar perusahaan itu klik kelola data perusahaan maka akan muncul seluruh informasi pekerjaan dan dapat menambahkan ketika klik tambah perusahaan maka akan muncul notifikasi nya</p>
 <img width="1919" height="1079" alt="Screenshot 2025-11-16 175714" src="https://github.com/user-attachments/assets/0f1c6676-c6a4-4b2f-80f4-19f247e81b0b" />
 <p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
-<p>lalu klik salah satu dari perusahaan dengan klik lihat dari perusahaan misal nya saya pilih PT inti Sakarak</p>
+<p>lalu klik salah satu dari perusahaan dengan klik lihat dengan emote mata dari perusahaan misal nya saya pilih PT inti Sakarak</p>
 <img width="1919" height="1079" alt="Screenshot 2025-11-16 175722" src="https://github.com/user-attachments/assets/579bd0ed-632c-4b81-8b20-51180936c9e6" />
 <p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
