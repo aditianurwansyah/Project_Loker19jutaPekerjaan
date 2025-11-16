@@ -28,10 +28,9 @@ berisikan tentang syarat salah satu penyelesaian ujian tengah semester dari pemr
 <img width="1919" height="1079" alt="Screenshot 2025-11-16 175150" src="https://github.com/user-attachments/assets/85b68f3d-ca18-4819-a3fe-1aa225e9a1a4" />
 <p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p> 
   </li>
-  <li>
-    <p>setelah itu dilanjutkan dengan project 2 yang menggunakan crud, setelah menampilkan daftar perusahaan itu klik kelola data perusahaan maka akan muncul seluruh informasi pekerjaan</p>
+</ul>
+<p>setelah itu dilanjutkan dengan project 2 yang menggunakan crud, setelah menampilkan daftar perusahaan itu klik kelola data perusahaan maka akan muncul seluruh informasi pekerjaan</p>
 <img width="1919" height="1079" alt="Screenshot 2025-11-16 175714" src="https://github.com/user-attachments/assets/0f1c6676-c6a4-4b2f-80f4-19f247e81b0b" />
 <p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
-  </li>
-</ul> 
-<p></p>
+
+
