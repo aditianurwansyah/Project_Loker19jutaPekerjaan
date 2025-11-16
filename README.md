@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="Screenshot 2025-11-16 172518" src="https://github.com/user-attachments/assets/660c03ba-71b1-4faa-bfad-d966664eb1ba" /><h1 align="center">Project_Loker19jutaPekerjaan</h1> 
+<h1 align="center">Project_Loker19jutaPekerjaan</h1> 
 berisikan tentang syarat salah satu penyelesaian ujian tengah semester dari pemrograman web 1 dengan dosen pengampu Nova Agustina, ST., M.Kom.
 <p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 <p>Project_Loker19jutapekerjaan adalah sebuah project yang berisikan seluruh informasi mengenai perusahaan yang ingin user inginkan dari pengen loker keja.</p>
@@ -54,7 +54,7 @@ berisikan tentang syarat salah satu penyelesaian ujian tengah semester dari pemr
 <img width="1919" height="1073" alt="Screenshot 2025-11-16 154257" src="https://github.com/user-attachments/assets/78ddd167-d798-4f58-86da-4104a312cb72" />
 <p>-------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 <br> 
-<p>hasil data user</p>
+<p>hasil data user</p> 
 <img width="1919" height="1079" alt="Screenshot 2025-11-16 172518" src="https://github.com/user-attachments/assets/dca4c12e-a28d-45fe-af9c-6fd986210998" />
 <img width="1919" height="1079" alt="Screenshot 2025-11-16 172526" src="https://github.com/user-attachments/assets/75ab5bef-b905-4697-a0f6-aefd89e222c2" />
 <img width="1919" height="1070" alt="Screenshot 2025-11-16 172533" src="https://github.com/user-attachments/assets/8d30abf4-bfea-4b23-b1a6-dc425dc649b7" />
