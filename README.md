@@ -35,8 +35,8 @@ berisikan tentang syarat salah satu penyelesaian ujian tengah semester dari pemr
 <p>lalu klik salah satu dari perusahaan dengan klik lihat dengan emote mata dari perusahaan misal nya saya pilih PT inti Sakarak</p>
 <img width="1919" height="1079" alt="Screenshot 2025-11-16 175722" src="https://github.com/user-attachments/assets/579bd0ed-632c-4b81-8b20-51180936c9e6" />
 <p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
-<p>setelah itu klik hapus, maka akan muncul validasi nya setelah klik nya di hapus dan notifikasi nya</p>
+<p>setelah itu klik hapus, maka akan muncul validasi nya setelah di hapus dan ada notifikasi nya</p>
 <img width="1919" height="1079" alt="Screenshot 2025-11-16 175729" src="https://github.com/user-attachments/assets/eae78a8c-7c9f-41ba-80cd-c96812e0ae14" />
 <img width="1919" height="1079" alt="Screenshot 2025-11-16 180254" src="https://github.com/user-attachments/assets/efd8bf02-08cd-422e-b6a0-5da4c7f8536f" />
 <p>-------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
-
+<p></p>
