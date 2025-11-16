@@ -39,4 +39,10 @@ berisikan tentang syarat salah satu penyelesaian ujian tengah semester dari pemr
 <img width="1919" height="1079" alt="Screenshot 2025-11-16 175729" src="https://github.com/user-attachments/assets/eae78a8c-7c9f-41ba-80cd-c96812e0ae14" />
 <img width="1919" height="1079" alt="Screenshot 2025-11-16 180254" src="https://github.com/user-attachments/assets/efd8bf02-08cd-422e-b6a0-5da4c7f8536f" />
 <p>-------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
-<p></p>
+<p>setelah itu maka klik kembali ke menu maka akan berpindah ke menu utama dan klik logout maka akan kembali ke login</p>
+<img width="1919" height="1079" alt="Screenshot 2025-11-16 173619" src="https://github.com/user-attachments/assets/e4e6b0ee-1ea0-4d96-8322-20194685d835" />
+<img width="1919" height="1079" alt="Screenshot 2025-11-16 180749" src="https://github.com/user-attachments/assets/6c3872e1-0932-4228-a04c-2364acae8f5d" />
+<p>-------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+
+
+
