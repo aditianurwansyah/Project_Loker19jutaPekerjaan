@@ -1,4 +1,4 @@
-<h1 align="center">Project_Loker19jutaPekerjaan</h1> 
+<img width="1919" height="1079" alt="Screenshot 2025-11-16 172518" src="https://github.com/user-attachments/assets/660c03ba-71b1-4faa-bfad-d966664eb1ba" /><h1 align="center">Project_Loker19jutaPekerjaan</h1> 
 berisikan tentang syarat salah satu penyelesaian ujian tengah semester dari pemrograman web 1 dengan dosen pengampu Nova Agustina, ST., M.Kom.
 <p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 <p>Project_Loker19jutapekerjaan adalah sebuah project yang berisikan seluruh informasi mengenai perusahaan yang ingin user inginkan dari pengen loker keja.</p>
@@ -43,6 +43,29 @@ berisikan tentang syarat salah satu penyelesaian ujian tengah semester dari pemr
 <img width="1919" height="1079" alt="Screenshot 2025-11-16 173619" src="https://github.com/user-attachments/assets/e4e6b0ee-1ea0-4d96-8322-20194685d835" />
 <img width="1919" height="1079" alt="Screenshot 2025-11-16 180749" src="https://github.com/user-attachments/assets/6c3872e1-0932-4228-a04c-2364acae8f5d" />
 <p>-------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<h2 align="center">Screenshot hasil dari bruno</h2>
+<p>hasil data perusahaan</p>
+<img width="1919" height="1079" alt="Screenshot 2025-11-16 135518" src="https://github.com/user-attachments/assets/3dc4a1f9-a8ce-4d60-8031-2566fa6b8755" />
+<img width="1919" height="1079" alt="Screenshot 2025-11-16 135518" src="https://github.com/user-attachments/assets/7a299479-0a30-466f-97f7-9946559e1d52" />
+<img width="1919" height="1079" alt="Screenshot 2025-11-16 144419" src="https://github.com/user-attachments/assets/a2b5978d-1a85-441b-9779-5c6e95206616" />
+<img width="1919" height="1079" alt="Screenshot 2025-11-16 152323" src="https://github.com/user-attachments/assets/b23d33f7-1eef-4464-80c6-2bdb384c218c" />
+<img width="1919" height="1079" alt="Screenshot 2025-11-16 152354" src="https://github.com/user-attachments/assets/482e3295-98bd-4b5a-942a-3219cc265495" />
+<img width="1919" height="1079" alt="Screenshot 2025-11-16 154244" src="https://github.com/user-attachments/assets/41918f1f-f99e-444a-bf93-bf72f80d482a" />
+<img width="1919" height="1073" alt="Screenshot 2025-11-16 154257" src="https://github.com/user-attachments/assets/78ddd167-d798-4f58-86da-4104a312cb72" />
+<p>-------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<br> 
+<p>hasil data user</p>
+<img width="1919" height="1079" alt="Screenshot 2025-11-16 172518" src="https://github.com/user-attachments/assets/dca4c12e-a28d-45fe-af9c-6fd986210998" />
+<img width="1919" height="1079" alt="Screenshot 2025-11-16 172526" src="https://github.com/user-attachments/assets/75ab5bef-b905-4697-a0f6-aefd89e222c2" />
+<img width="1919" height="1070" alt="Screenshot 2025-11-16 172533" src="https://github.com/user-attachments/assets/8d30abf4-bfea-4b23-b1a6-dc425dc649b7" />
+<img width="1919" height="1079" alt="Screenshot 2025-11-16 173511" src="https://github.com/user-attachments/assets/7eae3a1f-e72a-4932-9a16-765275a9e660" />
+<img width="1919" height="1079" alt="Screenshot 2025-11-16 173523" src="https://github.com/user-attachments/assets/3a4eb5a2-3bd6-4281-ada5-a6f732219b2a" />
+<img width="1919" height="1079" alt="Screenshot 2025-11-16 174046" src="https://github.com/user-attachments/assets/b18a93ae-4e3f-4c33-bdae-5f82767d12e9" />
+<img width="1919" height="1079" alt="Screenshot 2025-11-16 174057" src="https://github.com/user-attachments/assets/827a0d23-6e43-4af8-a32e-f578daae222e" />
+<img width="1919" height="1079" alt="Screenshot 2025-11-16 174349" src="https://github.com/user-attachments/assets/63ceb3c2-9447-43a0-a317-0373a1947cbc" />
+<img width="1919" height="1079" alt="Screenshot 2025-11-16 174359" src="https://github.com/user-attachments/assets/9dbfc569-711a-43bb-83e9-82c0171e75e7" />
+<p>------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+
 
 
 
