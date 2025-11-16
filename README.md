@@ -5,6 +5,10 @@ berisikan tentang syarat salah satu penyelesaian ujian tengah semester dari pemr
 <p>Kemudian di dalam loker tersebut ada fitur seperti login, register, menu utama. profil, dashboard, lalu untuk penjelasan fitur nya yaitu:</p>
 <p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 <p>🔐 Fitur login</p>
-<p>fitur login ini berfungsi untuk ketika sudah ada akun yang dapat menghubungkan ke halaman lain</p>
+<p>fitur login ini berfungsi untuk ketika yang sudah ada akun yang dapat menghubungkan ke halaman lain</p>
 <img width="1919" height="1079" alt="Screenshot 2025-11-16 173545" src="https://github.com/user-attachments/assets/5f49354a-3586-404e-9ffd-6721589e68f5" />
 <p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p>Fitur register</p>
+<p>fitur register ini berfungsi untuk yang belum mempunyai akun harus register terlebih dahulu sebelum login.</p>
+<img width="1919" height="1079" alt="Screenshot 2025-11-16 190631" src="https://github.com/user-attachments/assets/f853d392-02a8-44e4-817e-fb6df54959fe" />
+<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p> 
