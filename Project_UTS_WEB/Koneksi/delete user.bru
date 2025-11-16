@@ -1,0 +1,20 @@
+meta {
+  name: delete user
+  type: http
+  seq: 10
+}
+
+post {
+  url: http://localhost/Project_UTS_WEB/flow/delete_user.php
+  body: multipartForm
+  auth: inherit
+}
+
+body:multipart-form {
+  id: 1
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

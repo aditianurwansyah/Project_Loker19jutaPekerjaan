@@ -1,0 +1,23 @@
+meta {
+  name: insert data_companies
+  type: http
+  seq: 4
+}
+
+post {
+  url: http://localhost/Project_UTS_WEB/flow/insert_perusahaan.php
+  body: multipartForm
+  auth: inherit
+}
+
+body:multipart-form {
+  nama: PT Cakarang
+  deskripsi: di perlukan sebuah IT
+  alamat: Jl. ketulak No 13, Depok
+  kontak: cakarang@gmail.com
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

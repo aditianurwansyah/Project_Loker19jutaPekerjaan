@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "UTS PemWeb1",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

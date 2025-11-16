@@ -1,0 +1,23 @@
+meta {
+  name: insert user
+  type: http
+  seq: 8
+}
+
+post {
+  url: http://localhost/Project_UTS_WEB/flow/insert_user.php
+  body: multipartForm
+  auth: inherit
+}
+
+body:multipart-form {
+  nama_lengkap: Zazakuro
+  email: Zakuro@gmail.com
+  username: Zaku12
+  password: Sazamin12
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

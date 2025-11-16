@@ -1,0 +1,20 @@
+meta {
+  name: delete data companies
+  type: http
+  seq: 5
+}
+
+post {
+  url: http://localhost/Project_UTS_WEB/flow/delete_perusahaan.php
+  body: multipartForm
+  auth: inherit
+}
+
+body:multipart-form {
+  id: 1
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

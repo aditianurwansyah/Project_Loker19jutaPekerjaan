@@ -1,0 +1,24 @@
+meta {
+  name: update user
+  type: http
+  seq: 9
+}
+
+post {
+  url: http://localhost/Project_UTS_WEB/flow/update_user.php
+  body: multipartForm
+  auth: inherit
+}
+
+body:multipart-form {
+  nama_lengkap: Aditea
+  email: Adit@gmail.com
+  username: Adelt11
+  password: Adit09
+  id: 1
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

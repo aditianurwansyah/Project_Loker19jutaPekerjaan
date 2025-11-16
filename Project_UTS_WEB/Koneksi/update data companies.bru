@@ -1,0 +1,24 @@
+meta {
+  name: update data companies
+  type: http
+  seq: 6
+}
+
+post {
+  url: http://localhost/Project_UTS_WEB/flow/update_perusahaan.php
+  body: multipartForm
+  auth: inherit
+}
+
+body:multipart-form {
+  nama: CV mojangKarata
+  deskripsi: diajukan berpenampilan menarik
+  alamat: Jl. Katoplak No 12, Sinderen
+  kontak: mojangk@gmail.com
+  id: 4
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}
